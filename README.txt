@@ -1,4 +1,4 @@
-Create table in the mysql
+//Create table in the mysql
 create database jbj_food_court;
 
 //contactus_table
